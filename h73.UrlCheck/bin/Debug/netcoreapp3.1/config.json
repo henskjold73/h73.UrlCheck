@@ -1,0 +1,20 @@
+{
+  "CheckInterval": 20,
+  "Retries": 2,
+  "RetryInterval": 10,
+  "FailedPause": 500,
+  "ReportEmail": "morgan.henskjold@gmail.com",
+  "FromEmail": "alert@fb.no",
+  "SmtpConfig": {
+    "Host": "localhost",
+    "Port": 25,
+    "User": "",
+    "Password": "",
+    "EnableSsl": false
+  },
+  "Urls": [
+    "http://forsvarsbygg.no",
+    "http://basen.forsvarsbygg.no",
+    "http://doesnotexist.what"
+  ]
+}

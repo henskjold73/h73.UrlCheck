@@ -1,0 +1,17 @@
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\bin\Debug\netcoreapp3.1\h73.UrlCheck.exe
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\obj\Debug\netcoreapp3.1\h73.UrlCheck.csprojAssemblyReference.cache
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\obj\Debug\netcoreapp3.1\h73.UrlCheck.AssemblyInfoInputs.cache
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\obj\Debug\netcoreapp3.1\h73.UrlCheck.AssemblyInfo.cs
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\bin\Debug\netcoreapp3.1\h73.UrlCheck.deps.json
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\bin\Debug\netcoreapp3.1\h73.UrlCheck.runtimeconfig.json
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\bin\Debug\netcoreapp3.1\h73.UrlCheck.runtimeconfig.dev.json
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\bin\Debug\netcoreapp3.1\h73.UrlCheck.dll
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\bin\Debug\netcoreapp3.1\h73.UrlCheck.pdb
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\obj\Debug\netcoreapp3.1\h73.UrlCheck.csproj.CopyComplete
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\obj\Debug\netcoreapp3.1\h73.UrlCheck.dll
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\obj\Debug\netcoreapp3.1\h73.UrlCheck.pdb
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\bin\Debug\netcoreapp3.1\config.json
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\bin\Debug\netcoreapp3.1\MoreLinq.dll
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\obj\Debug\netcoreapp3.1\h73.UrlCheck.csproj.CoreCompileInputs.cache
+C:\Users\mhenskjo\source\repos\h73.UrlCheck\h73.UrlCheck\obj\Debug\netcoreapp3.1\h73.UrlCheck.genruntimeconfig.cache

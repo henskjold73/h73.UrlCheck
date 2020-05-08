@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "h73.UrlCheck", "h73.UrlCheck\h73.UrlCheck.csproj", "{FB4AD0A5-2261-43D2-B5A2-18FB09D5E0E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB4AD0A5-2261-43D2-B5A2-18FB09D5E0E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4AD0A5-2261-43D2-B5A2-18FB09D5E0E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4AD0A5-2261-43D2-B5A2-18FB09D5E0E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4AD0A5-2261-43D2-B5A2-18FB09D5E0E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0882ADF-7CD0-4678-8836-96AEAA448481}
+	EndGlobalSection
+EndGlobal

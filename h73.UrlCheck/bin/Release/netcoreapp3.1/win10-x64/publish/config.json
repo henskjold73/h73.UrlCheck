@@ -1,0 +1,20 @@
+{
+  "CheckInterval": 20,
+  "Retries": 5,
+  "RetryInterval": 10,
+  "FailedPause": 500,
+  "ReportEmail": "morgan.henskjold@gmail.com",
+  "FromEmail": "morgan.henskjold@gmail.com",
+  "SmtpConfig": {
+    "Host": "smtp.gmail.com",
+    "Port": 587,
+    "User": "morgan.henskjold@gmail.com",
+    "Password": "4vn4jC10",
+	"EnableSsl" : true	
+  },
+  "Urls": [
+    "http://forsvarsbygg.no",
+    "http://basen.forsvarsbygg.no",
+    "http://doesnotexist.what"
+  ]
+}
